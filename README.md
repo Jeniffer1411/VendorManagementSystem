@@ -89,6 +89,7 @@ The Vendor Management System is a Django Rest Framework (DRF) project designed t
   ---
 
   # Screen Shots
+
   ![image](https://github.com/Jeniffer1411/VendorManagementSystem/assets/154697190/22b8cd06-2501-451c-87d7-2e8fe931f736)
 
   ![image](https://github.com/Jeniffer1411/VendorManagementSystem/assets/154697190/8f5517aa-3c44-4b82-93ef-093071345dcd)
