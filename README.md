@@ -11,7 +11,7 @@ The Vendor Management System is a Django Rest Framework (DRF) project designed t
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Jeniffer1411/VendorManagementSystem/
+    git clone https://github.com/Jeniffer1411/VendorManagementSystem.git
     cd VendorManagementSystem
     ```
 2. **Install Dependencies**:
